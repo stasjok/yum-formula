@@ -4,6 +4,12 @@ SaltStack formula for managing YUM configuration file.
 
 ## Table of Contents
 
+* [Table of Contents](#table-of-contents)
+* [General notes](#general-notes)
+* [Special notes](#special-notes)
+* [Available states](#available-states)
+  * [yum.conf](#yum.conf)
+
 ## General notes
 
 See the full [SaltStack Formulas installation and usage instructions](https://docs.saltstack.com/en/latest/topics/development/conventions/formulas.html).
